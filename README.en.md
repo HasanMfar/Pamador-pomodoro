@@ -4,6 +4,8 @@
   <a href="README.md">فارسی</a>
 </p>
 
+> **Note:** Testing Jules with Gemini 3.1 Pro 🚀 (Includes automated Android APK builds)
+
 **Pamador** is a Pomodoro timer for the desktop — built with **Tauri 2** and **React**.
 
 <p align="center">

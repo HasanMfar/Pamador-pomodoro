@@ -4,6 +4,8 @@
   <a href="README.en.md">English</a>
 </p>
 
+> **Note:** Testing Jules with Gemini 3.1 Pro 🚀 (Includes automated Android APK builds)
+
 **پامادور** یک تایمر پومودورو برای دسکتاپ است — ساخته‌شده با **Tauri 2** و **React**.
 
 <p align="center">
